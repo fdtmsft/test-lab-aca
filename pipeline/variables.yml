@@ -4,10 +4,10 @@ variables:
   - name: terraformPath
     value: infra
   - name: servicePrinciple
-    value: mcaps-jasojohnson-1
+    value: MngEnvMCAP337668-acazurichfunctions-5097b672-c9c6-405a-b0a4-3409bd56d283
   - name: terraformContainerName
     value: terraform-easy-auth
   - name: terraformStorageAccountName
-    value: sajasonmcapterraform
+    value: acafunctionszurichjune
   - name: terraformResourceGroupName
-    value: rg-manual
+    value: aca-functions
