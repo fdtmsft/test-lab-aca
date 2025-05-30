@@ -4,7 +4,7 @@ variables:
   - name: terraformPath
     value: infra
   - name: servicePrinciple
-    value: MngEnvMCAP337668-acazurichfunctions-06645d80-004b-4fe0-80fb-4058657b594b
+    value: azure
   - name: terraformContainerName
     value: terraform-easy-auth
   - name: terraformStorageAccountName
