@@ -4,8 +4,8 @@ resource "azurerm_resource_group" "main" {
 }
 
 data "azurerm_container_registry" "main" {
-  name                = "acrjbjmcap1"
-  resource_group_name = "rg-manual"
+  name                = "acafunctiondemozurich"
+  resource_group_name = "aca-functions"
 }
 
 resource "azurerm_container_app_environment" "main" {
