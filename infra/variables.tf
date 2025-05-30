@@ -15,5 +15,5 @@ variable "app_name" {
 
 variable "me_client_id" {
   description = "My Client ID"
-  default = "bdad61aa-3d0f-416c-ac6b-b99e47e10c13"
+  default = "577e0e76-5fed-4994-bb97-4f726b54b208"
 }
